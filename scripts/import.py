@@ -5,7 +5,7 @@ sys.path.append('../')
 from import_config import load_config
 from pymongo import MongoClient
 
-#load in config fileß
+#load in config file
 
 config = load_config()
 
