@@ -23,6 +23,9 @@ conn = db[config['database']['collection_name']]
 for filename in os.listdir(os.getcwd()):
 
 
+#load json objects 
+
+
 
 #insert one by one into mongodb
 
