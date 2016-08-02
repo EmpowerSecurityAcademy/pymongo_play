@@ -3,6 +3,7 @@ import pymongo
 import glob
 import sys
 sys.path.append('../')
+sys.path.append('../helpers')
 from import_config import load_config
 from pymongo import MongoClient
 
@@ -17,19 +18,7 @@ client = MongoClient(config["database"]["connection_url"])
 db = client[config['database']['database_name']]
 conn = db[config['database']['collection_name']]
 
+data = conn.find({"action.misuse.vector": "LAN access"})
 
-#read in all files in the directory
-
-
-for file_name in glob.glob("../data_json/*.json"):
-
-#	load json objects 
-
-
-	with open(file_name) as data_file:
-		data = json.load(data_file)
-		print data
-
-#		insert one by one into mongodb
-
-		conn.insert_one(data)
+for element in data:
+	print(element)
