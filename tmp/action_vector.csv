@@ -1,0 +1,672 @@
+[u'Privilege abuse'],[u'LAN access'],Unknown,0001AA7F-C601-424A-B2B8-BE6C9F5164E7
+[u'Data mishandling'],[u'LAN access'],Ext - unknown,003F5B6A-CA75-4694-AA76-FE9498FF0C3E
+[u'Privilege abuse'],[u'LAN access'],Unknown,010DF8F5-3FAC-4C67-B220-A814CCE64D2F
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,01415D4B-2CAF-4EFC-AC36-55681DF6F338
+[u'Privilege abuse'],[u'LAN access'],Unknown,01B2296F-1BEE-4C8C-ADE3-5BD8CDF959D5
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,022DD596-EED0-4728-804F-22E0B84C803C
+[u'Privilege abuse'],[u'LAN access'],Unknown,02BC01D3-E545-4CD8-AD23-1E0148403985
+[u'Privilege abuse'],[u'LAN access'],Unknown,02BD1AF4-6473-4DCB-A586-6C267EFF993A
+[u'Privilege abuse'],[u'LAN access'],Unknown,03EA3D0E-E90A-475D-9832-A3C2C369936A
+[u'Privilege abuse'],[u'LAN access'],Unknown,043ED164-6730-459A-B7D9-D6CBF4C37754
+[u'Privilege abuse'],[u'LAN access'],Unknown,04CD66E6-7279-46BC-ABD7-08E05B0949B4
+[u'Privilege abuse'],[u'LAN access'],Unknown,04F872FE-BAB1-4D31-84DA-BBCCA50FFF78
+[u'Privilege abuse'],[u'LAN access'],Unknown,056FB58B-0C7A-4BEF-B444-736132FB5B14
+[u'Privilege abuse'],[u'LAN access'],Unknown,059DFC0C-3D83-48D0-980A-8E9536090C45
+[u'Privilege abuse'],[u'LAN access'],Unknown,06951413-138D-4CDC-8A66-C3FA0082FCBD
+[u'Privilege abuse'],[u'LAN access'],Unknown,06C79BD5-90B5-4037-8872-24BEACE5D76B
+[u'Net misuse'],[u'LAN access'],Ext - unknown,07093C37-7967-460C-9497-24CD42A55E73
+[u'Privilege abuse'],[u'LAN access'],Unknown,08B8D8B6-D0DA-474C-9466-FACC055FFD57
+"[u'Data mishandling', u'Unapproved workaround']",[u'LAN access'],Int - IT review,090B8365-ABFC-4357-8972-C8B5F7F4CB36
+"[u'Privilege abuse', u'Data mishandling']",[u'LAN access'],Unknown,0916DC49-A92F-458D-9E91-9F88F268F94B
+[u'Privilege abuse'],[u'LAN access'],Unknown,09736D23-B152-48F9-A3ED-D55E22E7C2B6
+[u'Privilege abuse'],[u'LAN access'],Unknown,09C5D3D1-EBDC-4B78-A8D8-168A80FB4BE6
+[u'Privilege abuse'],[u'LAN access'],Unknown,0A008C34-750B-4837-809A-C28EF5765249
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,0A0CE1B3-35CD-4474-A133-F5945942B53E
+[u'Knowledge abuse'],[u'LAN access'],Unknown,0A84AFAE-344B-4891-9FEF-E706FB07E2AC
+[u'Net misuse'],[u'LAN access'],Ext - customer,0B6BFC37-D7A7-42EC-A173-F2E950422EB0
+"[u'Unapproved hardware', u'Privilege abuse']","[u'LAN access', u'Physical access']",Unknown,0C4C2923-7E1A-46DB-8DAC-AEB54A4A3018
+[u'Privilege abuse'],[u'LAN access'],Unknown,0C5CB6A9-535F-4399-A09D-6B764B7699E1
+[u'Privilege abuse'],[u'LAN access'],Unknown,0CAB3086-4F4A-408F-B2C5-B71035FA0EE9
+[u'Privilege abuse'],[u'LAN access'],Unknown,0CC51554-22AB-4C41-A3A3-AC54DB1527DB
+[u'Privilege abuse'],[u'LAN access'],Ext - audit,0D385EAB-88A8-4F03-A2AC-5BA7E33BAB63
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']","[u'Physical access', u'LAN access']",Unknown,0E8BD2DA-233B-435F-AF46-14281EB04F74
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,0EFD0FCC-7C3A-4D66-8F60-71579BEE5757
+"[u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Ext - law enforcement,0F2EFB3B-CE7B-4618-A68E-B35699A7566F
+[u'Privilege abuse'],[u'LAN access'],Other,0F54132F-054E-426B-9273-55CAA5DBF1F8
+[u'Data mishandling'],[u'LAN access'],Ext - law enforcement,0F9BC1E0-0793-41F3-A4A5-3C945ACB8840
+[u'Privilege abuse'],[u'LAN access'],Unknown,10D2B2B0-9B00-49A9-8A41-76B0C6739A50
+[u'Privilege abuse'],[u'LAN access'],Other,10EF4DF6-0609-4B6A-9E6B-36B7E3EF510E
+[u'Privilege abuse'],[u'LAN access'],Unknown,1174F249-26D4-446F-A55B-4AD76EE9FD87
+[u'Privilege abuse'],[u'LAN access'],Unknown,124468E2-5D22-46B4-AAFE-A41E4891DF4F
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,12EA2011-A15B-4AF3-8AD4-82E3FBF345B2
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,12FA148B-4F30-4432-A143-A0108EE26316
+[u'Privilege abuse'],[u'LAN access'],Unknown,12FF347E-D321-44FC-B65E-80057FC51F16
+[u'Privilege abuse'],[u'LAN access'],Ext - unknown,1337BBC1-E027-46B2-9B46-CC67F6B5E357
+[u'Privilege abuse'],[u'LAN access'],Unknown,136C4ED4-10F2-4D6C-953E-9C240C3EE6CF
+[u'Privilege abuse'],[u'LAN access'],Unknown,13ABD132-9783-4496-9CB0-2A2CD3075D36
+[u'Privilege abuse'],[u'LAN access'],Unknown,13F31F2B-6032-4DAC-B2B9-912240BE906A
+[u'Data mishandling'],[u'LAN access'],Unknown,13FC7900-A93E-4988-AE99-C2B17BFD2EC1
+[u'Privilege abuse'],[u'LAN access'],Unknown,1440DFDA-972D-4DDA-BF5A-F0C378314D4F
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Ext - law enforcement,14B804AD-C1D9-4D74-A8F2-00FAD127F74A
+[u'Privilege abuse'],[u'LAN access'],Unknown,14B8EE97-0996-49FF-B9A0-CFA61FBD050E
+[u'Privilege abuse'],[u'LAN access'],Unknown,155F644C-EBBD-4BDA-84F5-A6B92DCED5FE
+[u'Data mishandling'],[u'LAN access'],Ext - actor disclosure,15B01A12-0FED-47E2-A97E-C12518C382E1
+"[u'Data mishandling', u'Unapproved hardware', u'Unapproved workaround']",[u'LAN access'],Unknown,16775FDB-1A7B-455E-9293-8B57B53B5927
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,16B3D6D6-5477-439C-9A7F-2D672C077C42
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']","[u'Physical access', u'LAN access']",Int - reported by employee,16C5CBFA-4B85-49C9-9DCE-15750183415F
+[u'Privilege abuse'],[u'LAN access'],Unknown,16C98F9A-7BE8-4D09-908B-38CA0D15520A
+[u'Privilege abuse'],[u'LAN access'],Unknown,16F4FE46-44F2-467B-B5F6-A153F6357D40
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,17B25242-FC0D-4E9A-8168-641EECDEC31D
+[u'Privilege abuse'],[u'LAN access'],Unknown,17DA3525-C659-4E39-BFDF-35E7BCC3E955
+[u'Privilege abuse'],[u'LAN access'],Unknown,17E44A87-62E5-4BA4-8AFA-ACF94D06C31C
+[u'Net misuse'],[u'LAN access'],Ext - fraud detection,17E77476-1CB6-4892-8B53-7D645D5A5DEF
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling', u'Unapproved hardware']","[u'Physical access', u'LAN access']",Other,1814BC8C-DBAC-424C-A767-F93BD4CEB0CC
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,18179CBF-B099-49A4-BD8D-BFF42648F228
+[u'Privilege abuse'],[u'LAN access'],Unknown,1892F486-AB2C-4067-9DAC-1AFA5DF9193D
+[u'Privilege abuse'],[u'LAN access'],Unknown,19A3B190-681C-40D4-8EB7-50FD5A9C2F34
+[u'Data mishandling'],[u'LAN access'],Unknown,19BA97EC-A4F1-4453-9067-F04B7532A57E
+[u'Privilege abuse'],[u'LAN access'],Int - financial audit,19E37AD1-D337-4266-AB2E-3D35675DE88B
+[u'Privilege abuse'],[u'LAN access'],Unknown,19EE019C-8E38-4B12-8F5E-2AE77B96B45A
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,1A824838-820B-4C39-AE8A-77F6A98F7EBE
+[u'Privilege abuse'],[u'LAN access'],Unknown,1A9FD045-46E5-4380-B3AB-A44F31AC0537
+[u'Privilege abuse'],[u'LAN access'],Unknown,1B4A1564-CB5F-4D97-B876-94E14E813F2C
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,1B5FC438-CAA2-44A7-A91D-EC91AC13B7F3
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,1BD04743-C5D6-4D72-84FF-CCCD99D3B5FE
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,1BF7F74F-9FAA-4BFD-88CE-509651A8EB72
+[u'Privilege abuse'],[u'LAN access'],Unknown,1BF8F7C0-E751-4C27-926C-58EBEA3C3A2B
+[u'Privilege abuse'],[u'LAN access'],Unknown,1C93BE6D-D108-4A08-9CBB-36BED43FC6C4
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,1CA1B729-971B-4660-8456-4DAA4F252C8A
+[u'Privilege abuse'],[u'LAN access'],Unknown,1CB366B7-D2F2-45CC-8725-16AEB5FFA450
+[u'Privilege abuse'],[u'LAN access'],Unknown,1CB6BAB1-7DB7-48AD-AAC3-4F07A16A8F99
+[u'Privilege abuse'],[u'LAN access'],Unknown,1CBE50F7-6303-4575-ACA6-A26F29D55ADB
+[u'Privilege abuse'],[u'LAN access'],Unknown,1CBFA087-C2C1-41AA-9C89-5CD0176BBDEB
+[u'Privilege abuse'],[u'LAN access'],Other,1D80372A-9FA9-4EAA-ACD2-6CC6C82A6B9D
+[u'Privilege abuse'],[u'LAN access'],Unknown,1D888BB5-1D4B-4621-AE44-114722BA8AFD
+[u'Privilege abuse'],[u'LAN access'],Unknown,1E8BF375-1468-4079-AF75-ED43DFEE63B4
+[u'Privilege abuse'],[u'LAN access'],Unknown,1F69F37B-7502-440C-9C1B-FE389B39BFAC
+[u'Unapproved software'],[u'LAN access'],Unknown,1F7FBF08-8CE3-4C08-A274-E62C7A07ED80
+[u'Privilege abuse'],[u'LAN access'],Unknown,20E75B76-4BD2-4869-A754-A10325DABD06
+[u'Privilege abuse'],[u'LAN access'],Unknown,21A4BF9F-974C-4EA7-86D0-0127744D0D5B
+[u'Privilege abuse'],[u'LAN access'],Unknown,21A801A7-9C83-436C-AC6B-97C62B17DFA7
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,21B66CD7-B7DA-450D-B7A5-735B940981CD
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,222AAB0B-6524-49A5-83C6-99D482E7AD66
+[u'Privilege abuse'],[u'LAN access'],Unknown,222F7DBA-7559-4C53-B2B2-C97DC60FEB36
+[u'Privilege abuse'],[u'LAN access'],Unknown,2230A9E0-AC36-4A4A-954A-563A76EF62A9
+[u'Privilege abuse'],[u'LAN access'],Unknown,22637444-B7C5-4E3A-AD9E-265CE5DD29CF
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,22DF31DA-B032-4180-A4F7-22A9536E46C9
+[u'Privilege abuse'],[u'LAN access'],Unknown,23286CD9-786B-45F8-B9FE-C92803A9010B
+[u'Privilege abuse'],[u'LAN access'],Unknown,2330ABE0-90C1-4E12-8893-EE25E6AE4299
+[u'Privilege abuse'],[u'LAN access'],Unknown,234DF890-29E8-421D-A69F-062701170D54
+[u'Privilege abuse'],[u'LAN access'],Unknown,236DBFE9-F1FC-4222-B2A3-CDD08457EEA8
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,23C9CD2C-2E52-4105-ACBF-B75101EE7A86
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,23D0692F-1C8D-4FF1-A603-C64A5A70D1F2
+[u'Data mishandling'],[u'LAN access'],Unknown,23DE9BD1-BD71-4FD5-8F67-E3B9FE8FCBEF
+[u'Privilege abuse'],[u'LAN access'],Unknown,23E9CBEA-C570-48CF-9D09-7AECFCD7D47A
+[u'Privilege abuse'],[u'LAN access'],Unknown,24AB7875-2921-410A-8199-3BA0B71CE146
+[u'Privilege abuse'],[u'LAN access'],Unknown,2592B70D-6080-4BD0-9FAA-E2FD4CC97C9D
+[u'Privilege abuse'],[u'LAN access'],Unknown,25CAD94C-8005-400C-8F3F-526AB0B5A748
+[u'Privilege abuse'],[u'LAN access'],Unknown,27904103-7302-43BE-ACA4-CE459BCC53B5
+[u'Privilege abuse'],[u'LAN access'],Unknown,27A53617-0630-4822-BC0C-114ABDA69AB6
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,27C66855-5735-4AF2-937E-DB616F5156D2
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,27CC6B1C-C0AF-4014-BF19-054BF440C434
+"[u'Illicit content', u'Privilege abuse']",[u'LAN access'],Int - reported by employee,2865B948-B7F1-497D-AE94-FB4B020541B0
+[u'Privilege abuse'],[u'LAN access'],Unknown,287172BC-4A18-422C-AF86-8FD0D18E409E
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,2874BC09-B6F0-4BDA-8B82-526EFC0698B3
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,28AF2F40-D0A5-412A-BA19-FD25D618EBEC
+[u'Privilege abuse'],[u'LAN access'],Unknown,295B5B09-6764-47F5-B101-773670F48796
+[u'Privilege abuse'],[u'LAN access'],Unknown,29A83DD0-3259-45DC-9B75-8BCCAE5C3B86
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']",[u'LAN access'],Other,29C7C4B5-BDDF-4FFF-923E-E55569259260
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,2AA876F5-73E2-4492-8ED2-959FE49A309C
+[u'Privilege abuse'],"[u'Unknown', u'LAN access']",Unknown,2ABBCF29-CFE3-446E-BEF9-BA3A11FB2DD8
+[u'Privilege abuse'],[u'LAN access'],Unknown,2ACF5383-2E24-404F-99D8-7DA3B6C13B23
+[u'Privilege abuse'],[u'LAN access'],Ext - unknown,2B164EFD-7D5B-4843-9C50-2F66EFC0ED39
+"[u'Possession abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Int - reported by employee,2B20F138-5489-4D36-A41A-1D9DB5895A52
+[u'Privilege abuse'],[u'LAN access'],Unknown,2B653811-C81F-424D-B346-4338B1501DCE
+[u'Privilege abuse'],[u'LAN access'],Unknown,2CC29550-B6F3-4921-9005-852644271A3C
+[u'Privilege abuse'],[u'LAN access'],Unknown,2DBA8CB0-F0A4-4752-91E7-DA5D797359EF
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,2DE89A34-9D37-494F-9F72-AD2C48A044E4
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,2E73989C-4DF7-452E-97C1-F3844E0FDF20
+[u'Data mishandling'],[u'LAN access'],Unknown,2EF2BD5B-1113-4094-AF0A-C87F843830DB
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,2F012C91-4351-4F84-933D-B01BD6B222AB
+[u'Privilege abuse'],[u'LAN access'],Unknown,2F396503-B691-4C4D-9584-20B163A7FD08
+"[u'Possession abuse', u'Data mishandling']",[u'LAN access'],Unknown,310AB416-F667-44AB-9652-6DBBA153416F
+"[u'Knowledge abuse', u'Possession abuse']","[u'Physical access', u'LAN access']",Ext - customer,3124B1F6-2355-4F55-BBFC-7F3A7239CBC3
+[u'Privilege abuse'],[u'LAN access'],Unknown,3134E9DD-2FB6-42DA-88B7-12D18516CDD7
+[u'Possession abuse'],[u'LAN access'],Unknown,31B10B02-12DA-4A3C-905C-EFBBDDA6A2E1
+[u'Privilege abuse'],[u'LAN access'],Unknown,178023A7-8F4A-4653-9571-9BD90DD023C8
+[u'Privilege abuse'],[u'LAN access'],Unknown,324C71B2-E0E6-4E06-8F27-770504B0365D
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,329DC598-FDEF-440A-9655-6F4B34C0E95D
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,32B511FC-EE16-4F2F-A95E-5963851B603B
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,32BD7ABE-B704-4E51-B79C-BE5FE3E3F8F1
+[u'Privilege abuse'],[u'LAN access'],Unknown,32DB78FE-39BA-49E5-95A4-066306D58190
+[u'Privilege abuse'],[u'LAN access'],Unknown,32F4DDA3-EEBC-40B2-8815-A30CD20C35EA
+[u'Privilege abuse'],[u'LAN access'],Unknown,33067AF6-E14D-42E8-9A51-716BD6D58217
+[u'Privilege abuse'],[u'LAN access'],Unknown,335D92B0-FA81-4532-A809-A5E58A3D003F
+[u'Privilege abuse'],[u'LAN access'],Unknown,33822412-26B2-4EAD-BDA7-422ECCB38778
+[u'Privilege abuse'],[u'LAN access'],Unknown,341E1FB3-72A5-4F2C-9B65-77213DEFF69F
+[u'Privilege abuse'],[u'LAN access'],Unknown,34AD1419-31BD-4BA7-A37A-473AA663F532
+[u'Data mishandling'],[u'LAN access'],Unknown,3516B42A-2159-4CF5-BC97-DBDA32DB1DD2
+"[u'Email misuse', u'Privilege abuse']",[u'LAN access'],Unknown,354150F4-050C-429D-827F-A365D4A01BB6
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,3666CEDF-01CB-4879-88E3-B4CDFDFF247D
+[u'Privilege abuse'],[u'LAN access'],Unknown,368D2094-D228-4ACD-B1A0-FF3727484FC7
+[u'Privilege abuse'],[u'LAN access'],Unknown,3765208E-AB0D-49C0-9D7F-C9CA055C9036
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']",[u'LAN access'],Unknown,37BDFE6D-170C-4471-87EE-C4E477C39298
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,37D3AEC1-C876-401B-861E-72596D265626
+[u'Privilege abuse'],[u'LAN access'],Unknown,37E3CDE5-161F-4902-824E-E4C5D6293B79
+[u'Privilege abuse'],[u'LAN access'],Unknown,38D6BFDD-F0CD-4578-B4CC-18679E375BE8
+[u'Privilege abuse'],[u'LAN access'],Unknown,38E9F420-616F-40DA-B956-29F0F437EBB7
+[u'Privilege abuse'],[u'LAN access'],Unknown,3931932C-D35E-460C-B3E6-EA1EDC660E18
+[u'Privilege abuse'],[u'LAN access'],Ext - unknown,39767ACD-8B46-4984-A59D-8EA4A4011A3D
+[u'Privilege abuse'],[u'LAN access'],Unknown,398E1C4C-475F-4341-B29E-6A208F65B65A
+[u'Data mishandling'],[u'LAN access'],Unknown,3A096618-CA8A-4E81-9EA0-A36FFA1BE8A9
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,3AC411E7-FEFD-48A7-AC8F-E307A3D5DA95
+[u'Privilege abuse'],[u'LAN access'],Unknown,3B17B87F-EDA4-4716-995E-E2A9B154C89F
+[u'Privilege abuse'],[u'LAN access'],Unknown,3BE4C9E1-9B50-4A65-8039-F5CBBA5ED58E
+[u'Privilege abuse'],[u'LAN access'],Unknown,3CAD8E13-3266-4124-8C0C-510F81DC0302
+[u'Privilege abuse'],[u'LAN access'],Unknown,3CD2B7E9-0D45-498B-8CC2-2A72305D656A
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,3D20D91D-D6DD-4AB7-8B6F-D6D70EB81ED5
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,3D4475F7-6BC1-4BF3-8A60-93F0358C145A
+[u'Privilege abuse'],[u'LAN access'],Unknown,3DCCC00D-588B-4EB3-BD1B-72B198657021
+[u'Privilege abuse'],[u'LAN access'],Unknown,3E3D2434-554F-4F4A-8621-B0C739048010
+[u'Privilege abuse'],[u'LAN access'],Unknown,3E6D8835-5639-42AF-9E10-A619ADEBF6DB
+[u'Data mishandling'],[u'LAN access'],Unknown,3EFBE274-2767-42CE-98BD-FB52E02FB4D8
+[u'Privilege abuse'],[u'LAN access'],Unknown,3F7BD9B6-E98B-47C5-8655-4FE85FA8FFEA
+[u'Privilege abuse'],[u'LAN access'],Unknown,3FA8166F-08C5-4795-B31C-8F273FBCA628
+"[u'Data mishandling', u'Email misuse']",[u'LAN access'],Unknown,40B43F8D-6D91-443F-A615-218794E60EFE
+[u'Privilege abuse'],[u'LAN access'],Unknown,4103B434-9A72-46B0-BCFC-625D32D3C446
+[u'Privilege abuse'],[u'LAN access'],Unknown,41053D59-6830-4162-9C74-31FA7118DD68
+[u'Privilege abuse'],"[u'Physical access', u'LAN access']",Unknown,411CE5F3-51D8-46CF-A500-EF4B3EFBA0D4
+[u'Privilege abuse'],[u'LAN access'],Unknown,41C9EE0D-6D72-44A2-A222-7A4170C5571B
+[u'Privilege abuse'],[u'LAN access'],Unknown,421E1EDD-CAD9-40DC-9E0C-3B549F93E94D
+[u'Data mishandling'],[u'LAN access'],Unknown,424F12BF-CD8C-49C9-B638-113EF2D21821
+[u'Privilege abuse'],[u'LAN access'],Other,4295B4DC-50A9-4545-A602-3F8B1728A806
+[u'Privilege abuse'],[u'LAN access'],Unknown,42EE6884-DE89-41C3-A844-9C325089CC0A
+[u'Privilege abuse'],[u'LAN access'],Unknown,43235DF2-FDD5-4C03-93DB-CBC27EBB08C3
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,43B52C0A-9561-43F7-82E4-920CF852691B
+[u'Privilege abuse'],[u'LAN access'],Unknown,43BCD096-E27F-48AA-A3E2-83FB710236D6
+[u'Privilege abuse'],[u'LAN access'],Unknown,43EBEEB3-2D3B-4782-B561-04F323EAFB67
+[u'Privilege abuse'],[u'LAN access'],Unknown,44024B76-5DD7-4E66-B209-ED3F1CF4B205
+[u'Privilege abuse'],[u'LAN access'],Unknown,44BA1F77-B7AC-4CAB-9EB0-F576363468E3
+[u'Privilege abuse'],[u'LAN access'],Unknown,45EA888A-791D-4452-B045-D394B6B076F7
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,46817CA2-963D-435E-9AFC-17AC7031F796
+[u'Privilege abuse'],[u'LAN access'],Unknown,46DC7B3A-0B53-4B00-A5AF-46062C7D5D2E
+[u'Privilege abuse'],[u'LAN access'],Unknown,471920F4-066A-4864-B8BD-08FD01DD01A9
+[u'Privilege abuse'],[u'LAN access'],Unknown,47F54170-B6EF-42B7-9AD2-533C9B343872
+[u'Privilege abuse'],[u'LAN access'],Unknown,4817272B-136A-4992-A533-D46D66A573CB
+[u'Data mishandling'],[u'LAN access'],Unknown,4A88D87C-CDCE-4E46-8509-B375577E5919
+[u'Privilege abuse'],[u'LAN access'],Unknown,4ACE59EE-9898-419B-9AD4-113BC72A5A5E
+[u'Privilege abuse'],[u'LAN access'],Unknown,4AD6E322-7D57-434F-B6C7-3417D3794250
+[u'Privilege abuse'],[u'LAN access'],Unknown,4B134F51-50E2-409F-A831-680174806FED
+[u'Knowledge abuse'],[u'LAN access'],Ext - customer,4B162A7B-43E7-4687-B726-5CC35E5E9D98
+[u'Privilege abuse'],[u'LAN access'],Unknown,4B1B9992-947F-4CF2-A5C3-FE7222D378D1
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,4BD4707D-F010-40D3-959B-7ABA7163B3B0
+[u'Privilege abuse'],[u'LAN access'],Unknown,4BFCCC3B-12B4-4725-BA89-00D419ED5F78
+[u'Privilege abuse'],[u'LAN access'],Unknown,4C1BC05B-81AF-4C3C-AA31-96B6A21FE29A
+[u'Privilege abuse'],[u'LAN access'],Unknown,4C5E1D53-CBD0-4DED-A6D3-8F95DAE5813B
+[u'Privilege abuse'],[u'LAN access'],Unknown,4D9563C2-D148-43B0-B769-E7458AC80BDF
+[u'Knowledge abuse'],[u'LAN access'],Ext - customer,4DD79E62-7083-42DA-91CF-8C2E0B8497DF
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,4E3D8F06-35AC-435E-AACF-CF38EA9292F5
+[u'Privilege abuse'],[u'LAN access'],Unknown,4E42B2F1-0CED-4050-B512-F99E5819226C
+[u'Privilege abuse'],[u'LAN access'],Unknown,4F075974-834C-4C6B-A3C2-105DBA421DD2
+[u'Privilege abuse'],[u'LAN access'],Unknown,4F2CB788-892C-4721-9150-C8C977F363BB
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Ext - law enforcement,500311F2-6CE4-4558-AA47-AA028ADAFB8A
+[u'Privilege abuse'],[u'LAN access'],Unknown,506E2E75-EC1B-42ED-AFBE-A45DC4D1C508
+[u'Data mishandling'],[u'LAN access'],Unknown,508E6A35-FD8A-4E5C-A6DE-803E8B89FAE4
+[u'Privilege abuse'],[u'LAN access'],Unknown,50EBE785-CD50-4D7C-8427-6DBB743AC8E4
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,50F3A5DE-0154-4774-97E5-A6922E252BC2
+[u'Privilege abuse'],[u'LAN access'],Unknown,50F703C9-2584-42D6-AA7D-3DA0943F44A2
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,5159F126-C17C-47BB-951B-2CBD1F6E41D1
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,51A3474C-68F8-4F40-891F-C33C9C8B6A38
+[u'Privilege abuse'],[u'LAN access'],Unknown,52087F21-575F-4D08-BBDF-E360ABFA0BBF
+[u'Privilege abuse'],[u'LAN access'],Unknown,52942CCF-A5B4-4A75-B56D-F48D801ED490
+[u'Privilege abuse'],[u'LAN access'],Unknown,52FA150F-B0E7-46D2-A4DA-DE6FBABC72A6
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,530FFCA7-123E-47E7-800E-93254296994A
+[u'Privilege abuse'],[u'LAN access'],Unknown,53440EAB-890C-45A6-82FA-383DCABD6A06
+[u'Privilege abuse'],[u'LAN access'],Unknown,53C8505F-B71D-426A-B34C-A4808BDB2B94
+[u'Privilege abuse'],[u'LAN access'],Unknown,53FFC72D-9656-4C4E-B200-098F9C0A6CCF
+[u'Data mishandling'],[u'LAN access'],Int - NIDS,54119DE6-083F-442E-8BD2-BE6A9435E8AA
+[u'Privilege abuse'],[u'LAN access'],Unknown,541E3F2B-8969-4FA6-95F8-8FDC3550B4AC
+[u'Privilege abuse'],[u'LAN access'],Unknown,542F477F-1154-49BD-94B1-F2CD0BD3F065
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,5455CCA3-15A7-42F4-BBD2-4B892CCE8CF5
+[u'Other'],[u'LAN access'],Unknown,54797080-3495-4ECD-A3AF-014785F1D383
+"[u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Int - financial audit,556EEE60-A0F6-40ED-ACE1-A8C820FBC02D
+[u'Privilege abuse'],[u'LAN access'],Unknown,55FCFE86-48C5-40E1-9569-CB16445B5A70
+[u'Privilege abuse'],[u'LAN access'],Unknown,56115EC3-BD0A-4C0B-A50E-497DA7DC917E
+"[u'Data mishandling', u'Email misuse']",[u'LAN access'],Unknown,56484370-2893-47C8-ADF8-33215200E70E
+[u'Privilege abuse'],[u'LAN access'],Unknown,564A32C5-205A-417A-9755-096F02BC546E
+[u'Privilege abuse'],[u'LAN access'],Int - financial audit,56B4544A-FCF7-48E4-9D98-0A07F5ED99E1
+"[u'Unapproved workaround', u'Net misuse']",[u'LAN access'],Unknown,56F76EC7-9976-49C7-9E95-E0A53FB78963
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,57E1EAC1-C992-4365-AF58-F1270F6F5E46
+[u'Unapproved software'],[u'LAN access'],Unknown,5A34DCCB-8C86-4333-AE6D-03BFAFBBFFF0
+[u'Privilege abuse'],[u'LAN access'],Unknown,5AA7EF31-5CE1-4FA3-99CC-98F017619318
+[u'Privilege abuse'],[u'LAN access'],Unknown,5ACC229C-D16B-40EA-80B5-3A00878C694C
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,5B55E755-BB32-41D2-91F1-7200D1242ABE
+[u'Privilege abuse'],[u'LAN access'],Unknown,5B59C22F-2FFB-42DA-B5AF-8F05E5F39BFD
+[u'Privilege abuse'],[u'LAN access'],Unknown,5B5AEDC8-754A-42A4-93CC-62D13FFD8841
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,5BBFC006-6C77-4DCB-9BD7-8432EA743893
+[u'Privilege abuse'],[u'LAN access'],Unknown,5BF522B4-8C30-4714-BEB2-F2B237C333BC
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,5C73080F-6AE6-4B24-A2A1-6FB59E49A066
+[u'Privilege abuse'],[u'LAN access'],Unknown,5C9F305E-6BD1-45D5-8B98-5D49B4BDB164
+[u'Privilege abuse'],[u'LAN access'],Unknown,5CA35432-61AB-4FDB-8ECD-84297C231C2C
+[u'Privilege abuse'],[u'LAN access'],Unknown,5CAB8519-1C4F-4D42-B7A0-1E004D3744D7
+[u'Privilege abuse'],[u'LAN access'],Unknown,5CAF2AA3-3FEF-4950-9388-54BDB6F1E5A6
+[u'Privilege abuse'],[u'LAN access'],Unknown,5CFD3DE1-A01A-45B7-AC79-862F9D8B436D
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,5D5AF22F-00A1-4591-973C-543CD8066178
+[u'Knowledge abuse'],[u'LAN access'],Other,5D5BC7F7-FF13-423C-825A-5786741039BF
+[u'Privilege abuse'],[u'LAN access'],Unknown,5DCF9A54-B8A1-482C-A524-87AD1F52E3E2
+[u'Privilege abuse'],[u'LAN access'],Unknown,5DFB257E-75C9-4C54-8254-5616B882A1C0
+[u'Privilege abuse'],[u'LAN access'],Unknown,5EAF8FE8-88A3-4B1D-A47B-98D972E456F9
+[u'Privilege abuse'],[u'LAN access'],Unknown,5F754B9D-D5ED-4903-85CA-411F499D7B92
+[u'Privilege abuse'],[u'LAN access'],Unknown,6082D873-B6AB-40A9-842C-E330E500A9C4
+[u'Privilege abuse'],"[u'Physical access', u'LAN access']",Unknown,60939153-8772-48E9-A515-0863873FABF5
+"[u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Unknown,60A3400A-11BB-42FE-BBCA-0B8FB3B4A707
+[u'Privilege abuse'],[u'LAN access'],Unknown,60D3C546-28D3-45C9-9F03-939E7882731E
+"[u'Privilege abuse', u'Unapproved hardware']",[u'LAN access'],Unknown,60F46D3F-BA4F-462C-B258-4D85838D943F
+[u'Privilege abuse'],[u'LAN access'],Unknown,60F9E43E-7043-4FE9-89D6-7BAD51ED2DE8
+[u'Privilege abuse'],[u'LAN access'],Unknown,6102699B-FF77-4844-A8F7-64E4318BA3A2
+[u'Privilege abuse'],[u'LAN access'],Unknown,61087A58-5CB0-40E7-A89A-86F95350A651
+[u'Privilege abuse'],[u'LAN access'],Unknown,617431E1-E6A5-41BD-8143-06A9BF368F8D
+[u'Privilege abuse'],[u'LAN access'],Unknown,619D0EDC-D415-479F-93F0-2FF9AB9B5F91
+[u'Privilege abuse'],[u'LAN access'],Unknown,636F79EC-BA24-4FF5-9CF6-4F1AF46340DD
+[u'Email misuse'],[u'LAN access'],Int - unknown,63781729-A919-4F31-AA16-07769E5379C4
+[u'Privilege abuse'],[u'LAN access'],Unknown,63DF75F3-C4A4-494A-A65B-29BA8ED136D0
+[u'Privilege abuse'],[u'LAN access'],Unknown,644C276B-D520-4139-B0B5-7CC10D3A1CF5
+[u'Net misuse'],[u'LAN access'],Int - IT review,64A292BF-A387-4B3D-8EA1-AEBADEAA76C0
+[u'Privilege abuse'],[u'LAN access'],Unknown,64BD86D9-5B5B-44D9-A4BB-D46F766F858E
+[u'Privilege abuse'],[u'LAN access'],Int - financial audit,65CCDBC1-9715-4A08-B6FC-B28DEC1E332F
+[u'Privilege abuse'],[u'LAN access'],Unknown,66670517-B391-4CF9-B929-3CB6206BAFFF
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,66971F0C-2885-4B07-9A04-3DAAF12505C1
+[u'Privilege abuse'],[u'LAN access'],Unknown,68A72F87-DCD5-47C7-A545-83CCFDA70034
+[u'Privilege abuse'],[u'LAN access'],Unknown,6907CD8B-70AA-41C9-BB98-869802395735
+[u'Privilege abuse'],[u'LAN access'],Other,692D46BC-8BBB-4881-833A-29D3143B29AD
+[u'Privilege abuse'],[u'LAN access'],Unknown,6950113B-E09D-44E9-A394-9B36A1B25BB8
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,69631002-5577-4F9A-8905-2457712134E5
+[u'Privilege abuse'],[u'LAN access'],Unknown,6966A968-9725-4D28-9FA8-FD9F81FD0112
+[u'Privilege abuse'],[u'LAN access'],Unknown,69827C0E-5B91-44FF-ABFF-177827B1CF91
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,69A77A6C-4169-4DA7-93F6-36FDAE52D796
+[u'Privilege abuse'],[u'LAN access'],Unknown,69B28D44-C81F-4047-8559-BD223D7BA24B
+[u'Privilege abuse'],[u'LAN access'],Unknown,69B69F68-6262-4F51-AD98-FD9E286AA20E
+"[u'Email misuse', u'Privilege abuse']",[u'LAN access'],Int - IT review,69E287CA-638D-45CB-8AD1-1F57893DEE9C
+[u'Privilege abuse'],[u'LAN access'],Unknown,6AA78C32-C0F3-44BE-A5E5-22515E4D5A51
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,6AD36141-ADEC-44F3-A224-4CE0B38716E4
+[u'Privilege abuse'],[u'LAN access'],Unknown,6AE50671-71FF-465E-ACC8-6D6077E054B6
+[u'Privilege abuse'],[u'LAN access'],Unknown,6B04926D-E79A-4812-B06B-FE666EB603EB
+[u'Privilege abuse'],[u'LAN access'],Unknown,6C086FA3-5776-43E6-AE66-9C93038C125E
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,6C0DFEEA-CEAD-4B6D-B537-D79D3F329E6D
+[u'Privilege abuse'],[u'LAN access'],Unknown,6CD3D8A0-306E-4BE6-8E9C-BC41C5297C55
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,6CFBB55E-6F0A-4BC3-B6A4-629797691554
+[u'Privilege abuse'],[u'LAN access'],Unknown,6D15AF63-ACB9-49F8-8047-A4B3D123D2FF
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,6D41BF5C-AD11-494E-A94D-C5F41A3A2413
+[u'Privilege abuse'],[u'LAN access'],Unknown,6D60E042-36C7-4D4E-AC87-F2BF8A2FB5CF
+[u'Privilege abuse'],[u'LAN access'],Unknown,6D6B2D40-1247-4701-9A4D-793C0291AE3B
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,6DCAC08F-4602-4273-897F-ACF1592F4A2A
+[u'Privilege abuse'],[u'LAN access'],Unknown,6ED63312-97CC-4701-99E0-19F6795E8DC1
+[u'Privilege abuse'],[u'LAN access'],Unknown,6FA25B24-A227-45A0-9664-BA4601C64829
+[u'Privilege abuse'],[u'LAN access'],Unknown,6FC046B3-F684-485D-8760-0493B865ED9D
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,6FFAFFAD-6545-4B89-9ECC-FA86557A46BF
+[u'Privilege abuse'],"[u'LAN access', u'Physical access']",Unknown,700A72DF-9C84-4E16-95A0-F6E0E95583E6
+[u'Privilege abuse'],[u'LAN access'],Unknown,712C726D-887B-4E98-9299-FE409EB68087
+[u'Privilege abuse'],[u'LAN access'],Unknown,71654763-C66E-40A3-BAE3-3C7C756ADCF3
+[u'Privilege abuse'],[u'LAN access'],Unknown,716C6ECC-CA3E-4E26-AACB-94459F86AF83
+[u'Privilege abuse'],[u'LAN access'],Unknown,72C7FAAB-34AC-4FA5-A0E1-E0BD6D1C06AE
+[u'Knowledge abuse'],[u'LAN access'],Unknown,72CCF9E4-758A-4CE6-9F4E-BF2AB07C30D1
+[u'Privilege abuse'],[u'LAN access'],Unknown,72E1DDDB-74FE-490A-9343-0DC0278D6A89
+[u'Privilege abuse'],[u'LAN access'],Unknown,73628A93-D8EF-438B-A5D3-E21DBD713526
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,73E7EB85-D398-48DB-91EF-74656A951AA6
+"[u'Knowledge abuse', u'Privilege abuse', u'Email misuse']",[u'LAN access'],Unknown,73EAF6FA-8643-4431-8E5C-A02D71197E6D
+"[u'Unapproved hardware', u'Privilege abuse']","[u'LAN access', u'Physical access']",Ext - fraud detection,73FC16AC-2D5B-4C81-9AA5-6445C7867C5B
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']","[u'Physical access', u'LAN access']",Ext - unknown,743CF9EA-DE65-43A1-904E-FDE2C08F9A45
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Int - IT review,749CE13F-FE0B-4FE6-A16A-72D56132F2CC
+"[u'Unknown', u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Unknown,756D3372-63AC-4068-A58F-FEEB67874EC3
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,75FD8C54-8080-4ABE-834F-C339E27F1DD2
+[u'Data mishandling'],[u'LAN access'],Other,761D632B-1AD2-4A76-9553-26EDBFA89C04
+[u'Privilege abuse'],[u'LAN access'],Unknown,76C4481D-2C65-4F8B-87B8-D44B1A8795A2
+"[u'Email misuse', u'Privilege abuse']",[u'LAN access'],Unknown,773E41A6-87D6-458C-81DB-2D807BFA1775
+[u'Privilege abuse'],[u'LAN access'],Unknown,7779CCC9-8151-4155-901E-DA69EFE2830B
+[u'Privilege abuse'],[u'LAN access'],Unknown,77A26EF1-0B4B-43C9-9A6D-665C8EBD6CB7
+[u'Privilege abuse'],[u'LAN access'],Unknown,786EAFE8-AC53-4CE4-A4CD-804138D8EC17
+[u'Privilege abuse'],[u'LAN access'],Int - fraud detection,78AB8EAB-34AC-49A7-9CD1-4DF15C7306E3
+[u'Privilege abuse'],[u'LAN access'],Unknown,78CD4A4F-40DF-42C1-8184-5FB6AC708645
+[u'Privilege abuse'],[u'LAN access'],Unknown,796A324D-4A8A-43B0-9765-3D56D0365B92
+[u'Privilege abuse'],[u'LAN access'],Ext - incident response,796FB539-0BBD-4FE3-BDA5-5EE010DF7F51
+[u'Privilege abuse'],[u'LAN access'],Unknown,7987E38C-19E5-4D95-950D-F2838B6CCC9B
+"[u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Other,79880588-3949-4199-BCCF-B258DAED4C7D
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,79D1DDE7-B93F-4B8B-A281-2AED9FF942CA
+[u'Privilege abuse'],[u'LAN access'],Unknown,7A1BD0C5-04A7-43E1-99D9-35A20C16991E
+[u'Privilege abuse'],[u'LAN access'],Unknown,7A5DD04C-99BB-4C30-BDAE-3FB6858EBA35
+[u'Privilege abuse'],[u'LAN access'],Unknown,7B9D36E6-5C56-4CB4-B301-767378D6B3FB
+[u'Privilege abuse'],[u'LAN access'],Ext - fraud detection,7BA7292B-B990-4968-A94B-892BEDBDA178
+[u'Privilege abuse'],[u'LAN access'],Unknown,7C0C29AF-F195-4DE3-BA3F-3161E4E58B82
+[u'Privilege abuse'],[u'LAN access'],Unknown,7C50C0C8-95DB-4637-BCA8-987070133213
+[u'Privilege abuse'],[u'LAN access'],Unknown,7D8DB525-8004-4E7F-95EC-C131CF2D9853
+[u'Privilege abuse'],[u'LAN access'],Unknown,7DD02745-8CE2-4612-ACAF-63F7480F6F67
+[u'Privilege abuse'],[u'LAN access'],Other,7DED3FBA-3CF3-4E45-BC6D-EBF3F5F5919B
+[u'Privilege abuse'],[u'LAN access'],Unknown,7E0D0D4B-9457-4FE9-A2C0-BDC9666189F2
+[u'Privilege abuse'],[u'LAN access'],Int - unknown,7E0D1A3C-B735-4F9A-A1E1-710F81443F9C
+[u'Privilege abuse'],[u'LAN access'],Unknown,7EC4DE90-48A7-402B-9420-981FF0F64F15
+[u'Privilege abuse'],[u'LAN access'],Unknown,7EDDC24C-F83B-4F22-AC4B-07B7412F050F
+[u'Privilege abuse'],[u'LAN access'],Unknown,7EE1FDDF-FBAB-4A6E-A8CF-B1827AB7CF5E
+"[u'Possession abuse', u'Privilege abuse', u'Knowledge abuse']","[u'LAN access', u'Physical access']",Unknown,7EF293D3-120F-4E94-8614-F34D6A8735E1
+[u'Privilege abuse'],[u'LAN access'],Unknown,7F0907E8-2E1D-4650-A508-C90186087B52
+[u'Privilege abuse'],[u'LAN access'],Unknown,7F418DC1-E700-4D7D-8D11-0D62E4A859BA
+[u'Privilege abuse'],[u'LAN access'],Unknown,7F675662-D333-45E5-A77B-AF23B943E5BA
+[u'Privilege abuse'],[u'LAN access'],Unknown,7F8BE436-CFCA-4523-9C4D-A7BAC741D1D1
+"[u'Privilege abuse', u'Knowledge abuse']",[u'LAN access'],Unknown,7F8D1991-85BE-41B6-99BF-9BB6F46842CD
+[u'Privilege abuse'],[u'LAN access'],Unknown,800FFA62-BA0D-4FDE-AFEC-8F86DA346D57
+[u'Privilege abuse'],[u'LAN access'],Unknown,8168506E-50A2-4814-BE77-BD8187B548FC
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Int - IT review,81C7388E-0BD6-4B01-BB95-1E1E50357C1E
+[u'Privilege abuse'],[u'LAN access'],Unknown,82611633-5560-428B-80AB-7CB3AB98B52D
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,82E3168C-C624-4D3A-9A32-8630352C32CD
+[u'Privilege abuse'],[u'LAN access'],Unknown,8306AB95-ACEA-457B-A588-511AF4D7C435
+[u'Privilege abuse'],[u'LAN access'],Unknown,8325F75B-0EFD-4AAC-8535-B3FB6C23D1DA
+[u'Privilege abuse'],[u'LAN access'],Unknown,83D3DB15-5538-465C-8462-EFBFC14C4A12
+[u'Privilege abuse'],[u'LAN access'],Unknown,84915F97-91C1-41DE-B7B4-9D3CA0E2565A
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,84AC81B3-DCC0-4652-8FC7-8BC7B46A133A
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,84B73E23-E84F-4A90-B913-294E8AB23914
+[u'Privilege abuse'],[u'LAN access'],Unknown,85295240-5829-43CE-8DE3-F5B0DD4C1870
+[u'Privilege abuse'],[u'LAN access'],Unknown,8546DB0B-AD10-4638-88CB-F04E19D29E15
+[u'Privilege abuse'],[u'LAN access'],Unknown,854D3C22-2999-4384-867B-E4070408A4E7
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,857E42B8-2B30-4915-9199-B311FCF5E2DF
+[u'Privilege abuse'],[u'LAN access'],Unknown,85A75A1A-B1CA-4816-97FA-2C84B0481CD5
+"[u'Possession abuse', u'Unapproved hardware']","[u'Physical access', u'LAN access']",Unknown,85F21223-5195-4A7C-9EC6-826D19C7CE52
+"[u'Data mishandling', u'Privilege abuse']","[u'Unknown', u'LAN access']",Unknown,86487EF5-848A-44FC-B556-62572F23122E
+[u'Privilege abuse'],[u'LAN access'],Unknown,86D28266-022E-4CDD-A68E-87C5550DDC4D
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,87C4DF66-8B71-4535-B9B8-EC1AECC80180
+"[u'Privilege abuse', u'Data mishandling']",[u'LAN access'],Unknown,87E93D67-A9A6-421B-B14D-05E975FB65D5
+[u'Unapproved software'],[u'LAN access'],Ext - unknown,88F889BD-3353-4625-A79D-B65F7CC13030
+[u'Privilege abuse'],[u'LAN access'],Unknown,899EB808-02D9-409A-9C5F-18A25793CEB9
+[u'Privilege abuse'],[u'LAN access'],Unknown,8A2FF701-E158-40F5-8DB2-5BDA5B498464
+"[u'Unapproved hardware', u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Int - reported by employee,8A4D3A12-C20F-4917-A85B-C0D48056C637
+[u'Privilege abuse'],[u'LAN access'],Unknown,8A92E3A9-B735-407E-824A-6D25A5A1AA42
+"[u'Possession abuse', u'Privilege abuse']",[u'LAN access'],Int - financial audit,8ACA5990-471E-4092-928E-DB5D16755266
+[u'Privilege abuse'],[u'LAN access'],Unknown,8AD0E95C-BB11-4083-A6F4-077D9D691CB4
+[u'Privilege abuse'],[u'LAN access'],Unknown,8B1E841C-E304-426D-A3D8-AA8CB01C4E37
+[u'Privilege abuse'],[u'LAN access'],Unknown,8B5626C6-B103-4E70-B3B3-37EAEAAE3BD2
+[u'Privilege abuse'],[u'LAN access'],Unknown,8BC9F991-DA52-4E24-876C-1AEE7C4DA37A
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']","[u'Physical access', u'LAN access']",Ext - customer,8BFB4053-8110-4110-B57C-57019FA0F0FE
+[u'Privilege abuse'],[u'LAN access'],Int - log review,8CDFAAC0-7952-488C-A60B-A0A8E67DF26A
+[u'Privilege abuse'],[u'LAN access'],Unknown,8DA357C3-6573-4404-B4E7-59ED147E762F
+[u'Privilege abuse'],[u'LAN access'],Unknown,8DD72747-0305-4283-897F-55B111C03BE7
+[u'Privilege abuse'],[u'LAN access'],Unknown,8DF824E5-F318-4E4E-92E0-555D2EB055E8
+[u'Privilege abuse'],[u'LAN access'],Unknown,8EC20274-30D3-48E4-98FF-F7DB6B86E421
+[u'Privilege abuse'],[u'LAN access'],Unknown,8FAD5A97-5BB8-4237-AC40-8DAEF8DE03B7
+[u'Privilege abuse'],[u'LAN access'],Unknown,8FDD9070-B156-4411-A85B-EC03C1700CB1
+[u'Privilege abuse'],[u'LAN access'],Unknown,906D82E5-BCD1-4A5C-890C-69F26541C366
+[u'Privilege abuse'],[u'LAN access'],Unknown,90A4C498-04F3-4415-AB6B-D5ECAB12DE6C
+[u'Possession abuse'],[u'LAN access'],Unknown,90D22FAC-5CC9-4CDD-AAEF-1C9D4200640D
+[u'Privilege abuse'],[u'LAN access'],Unknown,913E3962-6CEB-4E07-BDC0-F0D03E14A401
+[u'Privilege abuse'],[u'LAN access'],Unknown,9179667F-D62C-4D68-9031-5F955AC48122
+[u'Privilege abuse'],[u'LAN access'],Unknown,917C6FF1-2E50-44F0-A406-0F28F615978A
+[u'Privilege abuse'],[u'LAN access'],Unknown,9199B47D-D03A-4C79-8087-93390973A83A
+[u'Privilege abuse'],[u'LAN access'],Unknown,92053914-ECF9-4AF9-ABC7-01DCF4096379
+"[u'Email misuse', u'Privilege abuse']",[u'LAN access'],Ext - customer,9299353B-C83B-45B3-AF72-472F381EF5F7
+[u'Privilege abuse'],[u'LAN access'],Unknown,92A4BFDF-3BA8-48EE-B67C-B6838F792F9E
+[u'Privilege abuse'],[u'LAN access'],Unknown,9346CFB0-6359-4F6B-955D-E7D504E40561
+[u'Privilege abuse'],[u'LAN access'],Unknown,93AE4CEC-F997-4053-AF3E-823EB1043885
+[u'Privilege abuse'],[u'LAN access'],Unknown,943B7178-9FCC-4544-9725-5D371C8993F1
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Ext - unknown,94826261-20BD-4BDD-A5A2-31FDB56202EC
+[u'Privilege abuse'],[u'LAN access'],Unknown,9531E6E4-1221-4515-B638-1EB24055BA8D
+[u'Privilege abuse'],[u'LAN access'],Unknown,9540F118-CDEF-4E37-B714-818B9D35889E
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Int - IT review,9550B690-4985-47B4-B64D-EBB60C9AD5E2
+[u'Privilege abuse'],[u'LAN access'],Unknown,95A90A7D-4245-4849-9421-152F649B1422
+[u'Privilege abuse'],[u'LAN access'],Unknown,95AB6386-5AB2-4822-94BE-94D3C4C6158F
+[u'Privilege abuse'],[u'LAN access'],Unknown,95C29D92-7FC4-4E33-82EB-B8801AA5C0C4
+"[u'Privilege abuse', u'Unapproved workaround']",[u'LAN access'],Ext - customer,96E598D6-AEB9-4CD1-A7B4-933DB95223DE
+[u'Privilege abuse'],[u'LAN access'],Unknown,96F88518-6400-4303-9D66-4D99A9552EB8
+[u'Privilege abuse'],[u'LAN access'],Unknown,97912E73-E5EB-4E3A-A100-4B732402843E
+"[u'Privilege abuse', u'Data mishandling', u'Unapproved software']",[u'LAN access'],Unknown,97D6C4F6-DC7A-4D27-ACC6-105CDBE5E65D
+[u'Privilege abuse'],[u'LAN access'],Unknown,98C75848-43EA-4BDA-A488-4956EBB2E427
+[u'Privilege abuse'],[u'LAN access'],Unknown,991E9DC2-0F9F-4FB1-BAD2-BF421D0E8C2D
+[u'Privilege abuse'],[u'LAN access'],Unknown,999C7E9B-40DD-4FC2-ACDB-A0CA71DD3601
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,99BBCAB8-ED3A-475E-9B6B-1499B94192F0
+[u'Privilege abuse'],[u'LAN access'],Unknown,99C4097A-EE89-4CF0-A62F-7813707740D0
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,9A30564C-BF5E-41BF-8C7D-67071920C0E4
+[u'Privilege abuse'],[u'LAN access'],Unknown,9A4F9318-9495-45EE-A867-694D5C64BC08
+[u'Privilege abuse'],[u'LAN access'],Unknown,9A5B00A2-C242-4017-8A7F-D8C823D3E48B
+[u'Possession abuse'],[u'LAN access'],Unknown,9A5CD07E-9F8B-41CB-AA34-36ADDDE414FC
+[u'Unapproved hardware'],[u'LAN access'],Unknown,9A8C1D63-AB1A-4187-9A50-CFB89154EFC4
+[u'Privilege abuse'],[u'LAN access'],Unknown,9BD3DCA2-5567-41B4-894F-79BB074336B8
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,9BF96E3A-C1B2-4BC6-9A1B-EC1843F9559B
+[u'Privilege abuse'],[u'LAN access'],Unknown,9C962F16-01A9-4EDC-9B84-64FA6385BF1E
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,9CD620C7-8D9E-408E-99EB-6ECD4F5BB705
+[u'Privilege abuse'],[u'LAN access'],Unknown,9CF2D256-81C0-4C26-AFDA-1D9550797E4C
+[u'Privilege abuse'],[u'LAN access'],Unknown,9CFB93C5-96A6-410C-BB47-DF24B2763B6B
+[u'Data mishandling'],[u'LAN access'],Unknown,9D3FE3C1-F2B8-4E3C-B90B-623333B4432F
+[u'Privilege abuse'],[u'LAN access'],Int - log review,9E65802C-5C49-4AA2-B423-85D3069CD5FD
+[u'Privilege abuse'],[u'LAN access'],Unknown,9E691CF8-D2CC-464E-BE0C-B44F956692E1
+[u'Privilege abuse'],[u'LAN access'],Unknown,9FF7E88F-E2AC-4C15-8E37-DF98FE8C0F27
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,A034B2DF-D01E-4721-A11B-10A2AE58ADD5
+[u'Privilege abuse'],[u'LAN access'],Ext - audit,A0D3AE68-4B77-4744-A4D1-FE047A6168B9
+[u'Privilege abuse'],[u'LAN access'],Unknown,A11157F9-33D0-42A4-8B6E-B6AD317C2AC8
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,A1119792-19A0-4A9D-A934-09534D243421
+[u'Privilege abuse'],[u'LAN access'],Unknown,A11AF86B-FEEF-404E-B091-4FF10AC56A82
+[u'Privilege abuse'],[u'LAN access'],Unknown,A1978001-597A-4CD4-B3BF-979AA577BE00
+[u'Privilege abuse'],[u'LAN access'],Unknown,A2C30B85-41D8-4147-9DA9-E6B5E9F6DCD7
+[u'Privilege abuse'],[u'LAN access'],Other,A337C1D3-2976-4E7E-9751-95EAE2B51A00
+[u'Privilege abuse'],[u'LAN access'],Unknown,A3518A94-7FDC-4828-88F5-46EEFEEF04FD
+[u'Knowledge abuse'],"[u'Physical access', u'LAN access']",Unknown,A4370E75-52D7-4F24-89FD-F7ADB6A86882
+[u'Data mishandling'],[u'LAN access'],Unknown,A5794CE7-0B8A-47BD-8B2E-6057154698E5
+"[u'Possession abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Ext - law enforcement,A59C1709-026D-4E71-9DE9-641F9FDADD65
+[u'Privilege abuse'],[u'LAN access'],Unknown,A62898A7-8145-44CD-A655-662C8FFE23F5
+[u'Privilege abuse'],[u'LAN access'],Unknown,A6704C5C-AD20-4CD9-B811-44DE560CDF36
+"[u'Unapproved workaround', u'Privilege abuse']","[u'LAN access', u'Physical access']",Unknown,A68DB0CD-7AA3-4FCB-A238-D393B71A1282
+"[u'Data mishandling', u'Privilege abuse']",[u'LAN access'],Unknown,A6E4B61A-CB6E-4A57-BAD8-78F876F215F7
+[u'Privilege abuse'],[u'LAN access'],Unknown,A727E6CF-0E4D-4528-9D1A-5F182E188DBE
+"[u'Knowledge abuse', u'Data mishandling']","[u'Physical access', u'LAN access']",Unknown,A7EF9EDE-121E-49B1-94E9-365F714FEB5B
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,A7F71BC9-9F4C-4B7A-9087-2890C26288E7
+[u'Privilege abuse'],[u'LAN access'],Unknown,A8288A83-6850-475B-B4C9-EB4C870336C3
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,A8464B81-FEE8-4DA1-AF3A-3688D89C5682
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,A8718715-0F94-477C-BFF0-9E5A61B25885
+[u'Privilege abuse'],[u'LAN access'],Unknown,A875A1BB-E04B-4406-BEC6-127C82B16F33
+[u'Privilege abuse'],[u'LAN access'],Unknown,A8D0B60F-DE53-4902-AA9F-C17E80F9543B
+[u'Privilege abuse'],[u'LAN access'],Unknown,A8D1B6FB-B2AC-4A4F-8FF4-E9BEE9398756
+[u'Privilege abuse'],[u'LAN access'],Unknown,A8E5486F-F806-479C-B944-81F7063F4805
+[u'Privilege abuse'],[u'LAN access'],Unknown,A9384171-6136-484C-AAF7-F59E56AE8557
+[u'Privilege abuse'],[u'LAN access'],Unknown,A98FB4F2-BFFE-4AF5-9E80-D3E436F80E0B
+[u'Knowledge abuse'],[u'LAN access'],Unknown,A9B2ADD3-4334-4817-9426-2813417DFBD0
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,AA02CAB8-F9C5-4753-8B72-359CBA8889FC
+[u'Privilege abuse'],[u'LAN access'],Unknown,AACE0E39-68B3-4D65-8B28-AE7114331075
+[u'Privilege abuse'],[u'LAN access'],Int - fraud detection,AAF37CE3-3696-49B1-9281-7F7B90CFA905
+[u'Privilege abuse'],[u'LAN access'],Unknown,AB57F5D7-6568-4E9D-9680-9558A21FECC7
+"[u'Possession abuse', u'Privilege abuse', u'Unapproved hardware']","[u'Physical access', u'LAN access']",Ext - actor disclosure,ABDA520D-6C1B-4824-8132-3E0BE95BB1CF
+[u'Privilege abuse'],[u'LAN access'],Unknown,AC1CA5E6-4FA4-428D-9BDD-7AECBC7FBEAA
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,AC9B9258-083E-4372-B6AC-274B40DD7AF3
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,ACA22495-BD4C-4BE1-B779-BCF7DC3F5C08
+[u'Privilege abuse'],[u'LAN access'],Unknown,AD3C0726-E541-4616-BF17-216392EF2194
+[u'Privilege abuse'],[u'LAN access'],Unknown,AD413D9B-CFCD-4CC3-B50C-FC6AC795A8E8
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,AD7932A2-2053-4505-890E-2A5CC0EA060B
+[u'Privilege abuse'],[u'LAN access'],Unknown,AD84444C-3AA4-4B0D-A72E-28FDB16D2C1F
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,ADC3CE6B-39C3-4868-B6DB-A2BE474BBDF4
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,AE3738A0-446C-409F-9E17-6CED9B4F0A41
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,AE8ACC75-E339-4628-93BB-FD629C520C85
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,AEAE4E02-0624-466A-ABA9-E7D18CBE82EF
+[u'Privilege abuse'],[u'LAN access'],Unknown,AFA1BA9B-501C-4074-8066-6F51B17D1A3A
+[u'Privilege abuse'],[u'LAN access'],Unknown,B072C939-BDCA-4932-A8E6-7FF8B6A536B9
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,B127C554-D119-4C43-BE11-409654C73DEF
+[u'Privilege abuse'],[u'LAN access'],Unknown,B12868F2-F26C-4294-BA8A-6D4FC26CE61F
+"[u'Unapproved hardware', u'Unapproved workaround', u'Possession abuse', u'Privilege abuse']","[u'LAN access', u'Physical access']",Int - reported by employee,B13ACEAE-65B6-4ED5-9ABF-A01452364C23
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,B20CCBE3-EF6E-440E-8EA7-A0F45A9BBFEF
+[u'Privilege abuse'],[u'LAN access'],Unknown,B23D13CC-6BFA-4E13-81CB-7E432300BB19
+[u'Privilege abuse'],[u'LAN access'],Unknown,B262B582-C7EC-4C02-AB1B-215B31F99058
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,B28C79D5-2476-4EC0-B54E-3B22FC48E108
+[u'Privilege abuse'],"[u'Physical access', u'LAN access']",Unknown,B29388F3-1301-42A3-BBAC-42A593F4CABE
+[u'Privilege abuse'],[u'LAN access'],Ext - fraud detection,B2E18EA8-82C4-4711-A94A-716B26409657
+[u'Privilege abuse'],[u'LAN access'],Unknown,B30F6284-CE6F-40B5-878F-10A6C5A97596
+[u'Privilege abuse'],[u'LAN access'],Unknown,B3208B99-04C9-482F-BD60-35A92D744D56
+[u'Data mishandling'],[u'LAN access'],Unknown,B3228C33-E791-438F-B2EC-ACA7D51E6CA9
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,B367E1B6-77F3-4F4B-9C73-846E8BBD494C
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,B3B9E261-C214-4CF4-80E9-C3E3E398E2E8
+[u'Knowledge abuse'],[u'LAN access'],Unknown,B3DFB2FB-9EAE-4C28-8003-976519F5BCF4
+[u'Privilege abuse'],[u'LAN access'],Unknown,B4972629-EE41-40B2-AAD0-7380909D213A
+[u'Privilege abuse'],[u'LAN access'],Unknown,B4DE2A49-C61B-46E7-ABF3-77E4879691E4
+[u'Privilege abuse'],[u'LAN access'],Unknown,B5E2ACD7-9BD0-4406-ABA3-70D5DA1FF24A
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66C091C-62A0-11E3-9EE4-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66C3470-62A0-11E3-8690-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66C5D61-62A0-11E3-A879-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66D59AE-62A0-11E3-B028-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66EC757-62A0-11E3-A7A3-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66F339E-62A0-11E3-B2C1-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66F9585-62A0-11E3-8B49-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B66FE9F8-62A0-11E3-9942-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B670292B-62A0-11E3-B84B-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B6711DE6-62A0-11E3-BDED-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B6716A4F-62A0-11E3-BC6A-14109FCE954D
+[u'Privilege abuse'],[u'LAN access'],Unknown,B671AE8A-62A0-11E3-B33A-14109FCE954D
+[u'Data mishandling'],[u'LAN access'],Unknown,B69A9210-6D21-4577-96E9-F312F3FA5EF5
+[u'Privilege abuse'],[u'LAN access'],Unknown,B72FB7CE-71A3-4BA7-8FFB-23924A1EC566
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,B76030D5-4682-4FFD-8539-3BCC7F5CB09A
+[u'Privilege abuse'],[u'LAN access'],Unknown,B7C30B2F-10AD-4B2B-A7BF-72D6BB98F046
+[u'Privilege abuse'],[u'LAN access'],Unknown,B85B2675-358B-4143-98E9-E4A86C31B678
+[u'Privilege abuse'],[u'LAN access'],Unknown,B862CACF-DABC-4257-BFEB-610C19428F2B
+[u'Privilege abuse'],[u'LAN access'],Unknown,B887562D-DC0E-4703-8E48-6F481E27C5ED
+[u'Knowledge abuse'],[u'LAN access'],Unknown,B88E09D1-8309-4C06-9E4F-1A776189A8CB
+[u'Knowledge abuse'],[u'LAN access'],Ext - law enforcement,B96F0A1A-B74D-481C-8858-CEB8E423A14F
+[u'Privilege abuse'],[u'LAN access'],Unknown,BAECB13F-8E93-460E-82F8-B1C66C583644
+[u'Privilege abuse'],[u'LAN access'],Ext - fraud detection,BAEFA519-053C-4E00-A427-5058A9FDCEDF
+[u'Privilege abuse'],[u'LAN access'],Unknown,BB99DD92-1838-4C97-997E-63787AC222BD
+[u'Privilege abuse'],[u'LAN access'],Unknown,BBF53AFB-2068-4C2A-9C21-C19C7A86E5E9
+[u'Privilege abuse'],[u'LAN access'],Unknown,BC02850F-C1A0-4F1B-912E-4DBE339882CD
+[u'Privilege abuse'],[u'LAN access'],Unknown,BC231D06-E735-490A-859F-B27CE44D2B32
+[u'Privilege abuse'],[u'LAN access'],Unknown,BCA7A79F-C9A1-4D98-9A44-DD1DE77A48BF
+[u'Privilege abuse'],[u'LAN access'],Unknown,BCE2AEC0-34CC-4833-B24D-24FFF954F871
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,BD49A521-FBD7-430F-9FE5-EEA0C7951BAD
+[u'Privilege abuse'],[u'LAN access'],Unknown,BDEC17DA-DAB3-4CDC-9ADD-80CBE8C1D0FF
+[u'Privilege abuse'],[u'LAN access'],Unknown,BE969358-83C2-4313-8507-2AAF586629AE
+[u'Privilege abuse'],[u'LAN access'],Unknown,BF87CA5A-325A-4D5B-B087-EFF4C0431401
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']","[u'Physical access', u'LAN access']",Other,BFA6DEFB-55AB-4672-9D1F-E3FF78B9DCB1
+[u'Knowledge abuse'],"[u'Physical access', u'LAN access']",Unknown,BFC8B1F5-3CA7-4260-9B0A-D309F370462B
+[u'Privilege abuse'],[u'LAN access'],Unknown,C078E1FE-3ED8-472F-BD39-A7D1F3D347A4
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,C0A27979-2E44-472A-84E6-680CB92380A3
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,C100D8E5-86E5-4BE3-923A-9A79592935AC
+[u'Privilege abuse'],[u'LAN access'],Unknown,C1EE90AB-4B8F-493F-A2CF-6FA383679C72
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,C2351F96-356D-4E6A-B368-3BB75FB974E3
+[u'Privilege abuse'],[u'LAN access'],Unknown,C2453A7C-EA66-4775-807E-EEEE89A75661
+[u'Privilege abuse'],[u'LAN access'],Unknown,C282139F-C91B-4DB4-93E9-FAEE3BEBEB3B
+[u'Privilege abuse'],[u'LAN access'],Ext - unknown,C5A19BED-66B7-440C-95BB-A337EBBECC87
+[u'Privilege abuse'],[u'LAN access'],Unknown,C6C30497-82CE-4136-88BA-9050FB0CCA6F
+[u'Privilege abuse'],[u'LAN access'],Unknown,C6EF096A-2AB3-4F51-AE81-90FC5B50F374
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,C7676C52-36BD-493A-8E6B-45A4EC5C6940
+[u'Privilege abuse'],[u'LAN access'],Unknown,C7695885-EC98-4C67-A253-A8B943AF2C13
+[u'Privilege abuse'],[u'LAN access'],Unknown,C88AA059-6752-4ABA-93CD-02891D9B95EF
+[u'Privilege abuse'],[u'LAN access'],Unknown,C8BEE658-FFA2-4FA1-87A1-C02036535627
+[u'Privilege abuse'],[u'LAN access'],Unknown,C92D7C34-B29E-4527-A869-88BD40B359FE
+[u'Data mishandling'],[u'LAN access'],Ext - customer,CA815388-C9F1-47C3-9C03-917FF1D19B11
+[u'Data mishandling'],[u'LAN access'],Int - reported by employee,CB4BC4A0-5D89-455E-807B-DCB31712408C
+"[u'Possession abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Int - financial audit,CB69C761-5992-4B53-AA85-C352D456DC06
+[u'Privilege abuse'],[u'LAN access'],Int - incident response,CBEFE960-98A1-4099-A422-BC1F3E9F2CCE
+[u'Knowledge abuse'],"[u'Physical access', u'LAN access']",Unknown,CC4CC0AF-19AC-4852-9553-C6A0F12E66F8
+[u'Privilege abuse'],[u'LAN access'],Unknown,CC8C2768-EADB-476F-8A62-74EC7D778BDC
+[u'Privilege abuse'],[u'LAN access'],Unknown,CD22644A-93BE-4171-9CC1-D4F69F15A624
+[u'Privilege abuse'],[u'LAN access'],Int - log review,CDCE3B70-8288-4182-B6A6-708D8FE680F5
+[u'Data mishandling'],[u'LAN access'],Unknown,CDE8CC2F-FA75-465F-8464-39094B343705
+[u'Privilege abuse'],[u'LAN access'],Unknown,CE54AE83-B01D-4807-9E3D-FF0760481957
+[u'Privilege abuse'],[u'LAN access'],Unknown,CE62667C-4636-448A-A8C3-2581EBF496D3
+[u'Privilege abuse'],[u'LAN access'],Unknown,CFE2511C-99DB-41C6-A0F0-9A941824318E
+[u'Privilege abuse'],[u'LAN access'],Unknown,D0055CC7-23F7-43E5-9632-DEB29C4A74E9
+[u'Privilege abuse'],[u'LAN access'],Unknown,D035EB4F-3CAB-4F06-9CF5-E96241ECB2AF
+[u'Privilege abuse'],[u'LAN access'],Unknown,D1137DFD-37E3-442C-A844-9A04071531A8
+[u'Privilege abuse'],[u'LAN access'],Unknown,D22CAC1B-7571-49A2-92D6-40F50EC9C7D9
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,D2E11392-874E-480A-A4B0-8EFA44436334
+[u'Privilege abuse'],[u'LAN access'],Unknown,D37D1C96-C22D-45E2-9A9F-3F085D55EEEF
+[u'Privilege abuse'],[u'LAN access'],Unknown,D3898E9D-7BB8-47A5-84FD-C586EE90FD81
+[u'Privilege abuse'],[u'LAN access'],Unknown,D3944502-722E-418E-B675-9BDC608EDFF9
+[u'Privilege abuse'],[u'LAN access'],Int - reported by employee,D42A2C10-41AA-46E5-A0B5-337FBE858F1D
+[u'Privilege abuse'],[u'LAN access'],Unknown,D4512B77-06F8-449E-9A7E-41753054FFA1
+[u'Privilege abuse'],[u'LAN access'],Unknown,D4B1096B-5360-4FC7-AD18-2DDF727BB212
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,D58A7DFF-EFAB-47ED-8D93-5A4A4E323AE6
+[u'Privilege abuse'],[u'LAN access'],Unknown,D67C88C2-4140-497F-829E-227D6114DA5F
+[u'Privilege abuse'],[u'LAN access'],Unknown,D69953F7-528C-4BA4-8827-869C9B89A69D
+[u'Privilege abuse'],[u'LAN access'],Unknown,D6CECFD7-677D-4FB9-B70B-55A6FD897DF2
+[u'Privilege abuse'],[u'LAN access'],Unknown,D6E7644A-794A-46AE-BB03-250BFB307E65
+[u'Privilege abuse'],[u'LAN access'],Unknown,D767C088-F4E8-4EF9-AD7A-473C9ADBD899
+[u'Privilege abuse'],[u'LAN access'],Unknown,D78C8E3E-4463-45E4-A221-A83E2C9F064C
+[u'Privilege abuse'],[u'LAN access'],Unknown,D7A8B5A5-7919-4925-B524-C0CE847DDC85
+[u'Privilege abuse'],[u'LAN access'],Unknown,D816827D-BC61-4105-87F7-BA4FBD655EC0
+[u'Privilege abuse'],[u'LAN access'],Unknown,D86222E6-44D7-4526-A783-A0D0E2177D22
+[u'Privilege abuse'],[u'LAN access'],Unknown,D8F7D2A2-B9E7-4067-A74D-B06CAEDA7038
+"[u'Illicit content', u'Privilege abuse']",[u'LAN access'],Unknown,D9958FCC-949B-42F4-874B-75515AD7B015
+"[u'Possession abuse', u'Privilege abuse', u'Unapproved hardware']","[u'LAN access', u'Physical access']",Unknown,DA3902D1-6146-4EFF-8149-6CFA1ED7E92F
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,DA569083-AA61-4143-A6F0-1F4291AA1B04
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Other,DA64661F-4C91-4B00-92A2-643D6473FAF0
+[u'Knowledge abuse'],[u'LAN access'],Unknown,DAA40F5A-6E1A-48EE-9E56-6D77EFD4FA2E
+[u'Privilege abuse'],[u'LAN access'],Unknown,DB53CB03-6BED-4E8D-8F99-012071C29E9C
+[u'Privilege abuse'],[u'LAN access'],Unknown,DB64E957-1590-4B7C-9219-2BBEE2703989
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,DBAE87C5-B8F4-4921-82C7-1048B6A35BF5
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,DBEBEFE2-869F-4535-BE91-EA17614F8C71
+[u'Privilege abuse'],[u'LAN access'],Unknown,DCBAD63E-8F63-44BF-8658-A5E56B0FE9CF
+"[u'Knowledge abuse', u'Privilege abuse']","[u'Physical access', u'LAN access']",Unknown,DD0F643C-6AD8-4E5A-B7A4-835BD33F6152
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,DD176F1A-4D0C-4D18-8B54-7CD080071625
+[u'Privilege abuse'],[u'LAN access'],Unknown,DD49C007-4928-49AF-95BD-5ADA98196B41
+[u'Privilege abuse'],[u'LAN access'],Unknown,DD5C2E7F-2EC9-433C-84FE-06C4F78A8187
+[u'Privilege abuse'],[u'LAN access'],Unknown,DD84D92E-1DAD-4DF1-85ED-B7D754B0C25D
+[u'Privilege abuse'],[u'LAN access'],Ext - unknown,DD9552FA-0202-45D2-8758-DDF060A88407
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,DD9F7ECE-111C-4013-8C24-0063160523AB
+[u'Privilege abuse'],[u'LAN access'],Unknown,DE27C0DE-3F17-42A7-8554-982428C7683E
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,DE4FE8D2-D571-4B81-A181-905AFA5C89D1
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,DE78D048-8CB7-4A1A-907B-135A3CD82B58
+[u'Privilege abuse'],[u'LAN access'],Unknown,DE88DF24-E940-4815-8938-F3C103B345A7
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,DE9E04CC-E30D-4B55-B534-311CCCB157CC
+[u'Privilege abuse'],[u'LAN access'],Unknown,DED1B82C-C455-483D-A835-8A2E54D8D1DB
+[u'Privilege abuse'],[u'LAN access'],Unknown,DFC67214-FAF5-40A6-84D7-71F4B56EF4C5
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,DFD92947-3CC2-4D04-86BB-24BA9EE356A2
+[u'Data mishandling'],"[u'Physical access', u'LAN access']",Unknown,E077CB24-85A5-4F89-80DB-EB19B7A07B95
+[u'Privilege abuse'],[u'LAN access'],Ext - law enforcement,E0F631DD-7445-4A4D-8A69-4E365B58497F
+[u'Privilege abuse'],[u'LAN access'],Unknown,E10B620B-0055-4CEF-892B-96BCE7EFD7F4
+[u'Privilege abuse'],[u'LAN access'],Unknown,E154EA95-0207-4A81-9B2B-7BDA5F2F6935
+[u'Privilege abuse'],[u'LAN access'],Unknown,E320D55B-C6CC-4167-B60E-B64897EEDA44
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,E3407347-100D-4791-9257-3904BE529E62
+[u'Privilege abuse'],[u'LAN access'],Other,E35DAD05-7891-4A80-A150-D7A7F0C71103
+[u'Privilege abuse'],[u'LAN access'],Ext - actor disclosure,E3A5ECA0-A6D4-49F2-8769-D6DD17A83173
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,E410F7DE-BDDC-48F0-8205-4BE2B077ED04
+[u'Privilege abuse'],[u'LAN access'],Unknown,E48CC490-0C18-455E-B186-2A1DDB9B8431
+[u'Privilege abuse'],[u'LAN access'],Unknown,E4E0D5C8-C103-4AFE-ABEB-F6700BB45D39
+[u'Privilege abuse'],[u'LAN access'],Unknown,E534AA6A-263F-49C2-849F-A4E8AAC47A08
+"[u'Knowledge abuse', u'Privilege abuse', u'Net misuse']",[u'LAN access'],Int - IT review,E62AA41E-58CA-4D1D-AFC7-7B95D3078D17
+[u'Privilege abuse'],[u'LAN access'],Int - log review,E64C49A7-DA82-4421-9F18-0D4CC2F5C491
+[u'Privilege abuse'],[u'LAN access'],Unknown,E653E42A-5D59-4933-944B-CE1BE222E68B
+[u'Privilege abuse'],[u'LAN access'],Unknown,E68C118A-E10C-4351-B22F-E35E40820E30
+[u'Privilege abuse'],"[u'Physical access', u'LAN access']",Unknown,E8E16E5E-8BE5-4D22-AACF-2C0E91656BC4
+"[u'Unapproved software', u'Privilege abuse', u'Unapproved hardware']",[u'LAN access'],Unknown,E93009F1-C3F3-4390-9F07-6750378BDBF1
+[u'Privilege abuse'],[u'LAN access'],Int - fraud detection,E9864B07-A715-483E-B85B-F85A2B00EE9C
+[u'Privilege abuse'],[u'LAN access'],Unknown,EAC99C13-3096-474C-BF8B-CF2B78370870
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,EBC1B7EC-6561-4B80-802F-FD1BA55DBCA4
+[u'Privilege abuse'],[u'LAN access'],Ext - customer,EBF69CD9-C00D-495F-A22B-D2EF127A0A20
+[u'Privilege abuse'],[u'LAN access'],Unknown,EBFE3E81-B319-4B90-963C-A8EBEDB7BD87
+[u'Privilege abuse'],[u'LAN access'],Unknown,EC6899DA-94D3-46D2-BF32-D6A2B1F2FB43
+[u'Privilege abuse'],[u'LAN access'],Unknown,ED7C3025-6FFF-4635-9FAA-646FB299EC4B
+[u'Privilege abuse'],[u'LAN access'],Unknown,EDDD3A3F-CD19-4729-9D1B-3CB7774B1BDC
+[u'Privilege abuse'],[u'LAN access'],Unknown,EDE5B131-D5C5-4429-814E-1301ACA8EAEF
+[u'Privilege abuse'],[u'LAN access'],Unknown,EE357ACF-2472-4781-BECB-F1423C7C5DE8
+[u'Privilege abuse'],[u'LAN access'],Unknown,EFB41516-1BC9-4AF6-9742-58CF4AA3177E
+[u'Email misuse'],[u'LAN access'],Int - data loss prevention,EFFC2F32-5BFD-4398-A6E3-9F3B152F9E64
+"[u'Knowledge abuse', u'Privilege abuse']",[u'LAN access'],Unknown,F1C3B4CD-42E8-4872-A155-D92C972BD68F
+[u'Privilege abuse'],[u'LAN access'],Unknown,F21A1B54-8451-4C34-94B4-B96866BC214C
+[u'Privilege abuse'],[u'LAN access'],Unknown,F220A4DA-92B1-4948-B1FD-5E7161A3680F
+[u'Privilege abuse'],[u'LAN access'],Unknown,F254D8DB-B935-48E9-938D-699AA29EA607
+"[u'Knowledge abuse', u'Data mishandling']",[u'LAN access'],Ext - law enforcement,F2D75685-8F63-4E79-8C0E-C0B256CF2415
+[u'Privilege abuse'],[u'LAN access'],Unknown,F2D947A0-CACE-4B0D-B6C9-6BBCDC3DE82F
+[u'Privilege abuse'],[u'LAN access'],Unknown,F3082A6B-46F9-43FB-8786-320EB4B3AC6D
+[u'Privilege abuse'],[u'LAN access'],Unknown,F3476154-AE43-4A50-B93A-E644334B32DD
+[u'Privilege abuse'],[u'LAN access'],Unknown,F34934C9-D28B-44E2-BBB7-B89B764B7C47
+"[u'Privilege abuse', u'Data mishandling']",[u'LAN access'],Unknown,F540C14C-4AAB-4D97-9D8F-4A41A0A485AE
+[u'Privilege abuse'],[u'LAN access'],Unknown,F59B48F9-B8CD-4F25-AF9E-179018157A07
+"[u'Knowledge abuse', u'Privilege abuse', u'Email misuse', u'Net misuse']",[u'LAN access'],Unknown,F5B335CC-5C70-4526-88ED-A49E259A17CD
+[u'Privilege abuse'],[u'LAN access'],Int - IT review,F61D5071-1734-4277-BDC4-CE523F924BC8
+[u'Privilege abuse'],[u'LAN access'],Unknown,F6AFE976-6043-4762-906C-49F74C8BA94B
+"[u'Knowledge abuse', u'Privilege abuse', u'Data mishandling']",[u'LAN access'],Other,F6C70497-14D7-4C22-9BFD-DEA84292FEA9
+[u'Privilege abuse'],[u'LAN access'],Unknown,479BADB1-BD1C-4EA0-B7D0-FDD60BDDB7B7
+[u'Privilege abuse'],[u'LAN access'],Unknown,F7838473-2BCD-4166-8614-F881764FF2EE
+[u'Privilege abuse'],[u'LAN access'],Unknown,F79A0819-AB52-494F-A285-9CF34F73CA13
+[u'Privilege abuse'],[u'LAN access'],Unknown,F8C2984A-412C-4DEE-8CDB-D525CE5765A8
+[u'Possession abuse'],[u'LAN access'],Unknown,F8C47B4F-7298-4E27-8829-39C963252B91
+"[u'Data mishandling', u'Privilege abuse']",[u'LAN access'],Ext - actor disclosure,FA2736DF-67A2-4157-A4CC-042911398A93
+[u'Privilege abuse'],[u'LAN access'],Int - incident response,FA728AFB-D923-48F6-B910-331BDF9B1CEB
+[u'Privilege abuse'],[u'LAN access'],Ext - fraud detection,FAD45047-FA08-4D4A-AEEE-F506BDB56F47
+[u'Privilege abuse'],[u'LAN access'],Unknown,FAF6DD3B-D307-4458-B413-0E9012D679BC
+[u'Privilege abuse'],[u'LAN access'],Unknown,FBC2C3AF-0E05-484E-9CDC-C999D47C69DF
+[u'Knowledge abuse'],"[u'Physical access', u'LAN access']",Unknown,FBF66BEE-55F9-463E-BA47-602753CB2A66
+[u'Privilege abuse'],[u'LAN access'],Ext - incident response,FCDE811A-732A-414A-B962-CD7ACFFB0756
+[u'Privilege abuse'],[u'LAN access'],Unknown,FD8FB83C-AFCD-4CCF-822A-763F8AEB10D2
+[u'Privilege abuse'],[u'LAN access'],Unknown,FD959281-A9ED-4BFC-B5FE-D4CD81C856D8
+[u'Privilege abuse'],[u'LAN access'],Unknown,FE50583F-CD84-40B7-8720-93F3E42AB243
+[u'Privilege abuse'],[u'LAN access'],Unknown,FF36D4B6-9F7A-434C-A5DB-8BD1E63BFD40
