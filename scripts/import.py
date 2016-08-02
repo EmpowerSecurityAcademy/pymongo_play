@@ -20,13 +20,14 @@ conn = db[config['database']['collection_name']]
 #read in all files in the directory
 
 
-for filename in os.listdir(os.getcwd()):
+for file_name in os.listdir(os.getcwd()):
+
+#	load json objects 
+
+	with open(file_name) as data_file:
+		data = json.load(data_file)
 
 
-#load json objects 
+#		insert one by one into mongodb
 
-
-
-#insert one by one into mongodb
-
-
+		
