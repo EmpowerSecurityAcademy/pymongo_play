@@ -30,4 +30,4 @@ for file_name in os.listdir(os.getcwd()):
 
 #		insert one by one into mongodb
 
-		
+		conn.insert_one(data)
