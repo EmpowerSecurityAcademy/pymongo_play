@@ -28,7 +28,6 @@ for file_name in glob.glob("../data_json/*.json"):
 
 	with open(file_name) as data_file:
 		data = json.load(data_file)
-		print data
 
 #		insert one by one into mongodb
 
