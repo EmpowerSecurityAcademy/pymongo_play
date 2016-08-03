@@ -2,10 +2,9 @@ import json
 import pymongo
 import glob
 import sys
-sys.path.append('../')
 sys.path.append('../helpers')
 from import_config import load_config
-from save_to_csv import export__all_data
+from save_to_json import json_export
 from pymongo import MongoClient
 
 # load in config file
@@ -25,4 +24,4 @@ data = conn.find({"action.misuse.vector": "LAN access"})
 
 # export them to a csv file
 
-export__all_data(data, "action_vector.csv")
+json_export(data, "../tmp/action_vector.json")
