@@ -18,7 +18,14 @@ conn = db[config['database']['collection_name']]
 
 # pull all tweets from mongodb
 
-data = conn.find({"action.misuse.vector": "LAN access"})
+query = [
+	{"$unwind": "$action.hacking.vector"},
+	{"$group": {"_id": "$action.hacking.vector", "count": {"$sum": 1}}},
+]
+
+data = list(conn.aggregate(query))
+
+print(data)
 
 # export them to a csv file
 

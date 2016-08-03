@@ -1,0 +1,30 @@
+[
+  {
+    "count": 2, 
+    "_id": "Desktop sharing"
+  }, 
+  {
+    "count": 3, 
+    "_id": "Command shell"
+  }, 
+  {
+    "count": 6, 
+    "_id": "Physical access"
+  }, 
+  {
+    "count": 6, 
+    "_id": "Other"
+  }, 
+  {
+    "count": 32, 
+    "_id": "Backdoor or C2"
+  }, 
+  {
+    "count": 87, 
+    "_id": "Unknown"
+  }, 
+  {
+    "count": 150, 
+    "_id": "Web application"
+  }
+]
