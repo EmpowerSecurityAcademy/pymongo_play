@@ -12,11 +12,11 @@ config = load_config()
 # initialize connection to mongodb
 
 client = MongoClient(config["database"]["connection_url"])
-
 db = client[config['database']['database_name']]
 conn = db[config['database']['collection_name']]
 
-# pull all tweets from mongodb
+# write a query that aggregates the field action.hacking.vector
+# and provide a count of the number of each incidents per unique value, export as a list
 
 query = [
 	{"$unwind": "$action.hacking.vector"},
@@ -25,8 +25,6 @@ query = [
 
 data = list(conn.aggregate(query))
 
-print(data)
-
-# export them to a csv file
+# export them to a json file
 
 json_export(data, "../tmp/data_aggregations.json")

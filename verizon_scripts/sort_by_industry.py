@@ -12,14 +12,13 @@ config = load_config()
 # initialize connection to mongodb
 
 client = MongoClient(config["database"]["connection_url"])
-
 db = client[config['database']['database_name']]
 conn = db[config['database']['collection_name']]
 
-# pull all tweets from mongodb
+# pull all incidents from mongodb and sort DESCENDING by victim.industry
 
 data = conn.find().sort("victim.industry", pymongo.DESCENDING)
 
-# export them to a csv file
+# export them to a json file
 
 json_export(data, "../tmp/sort_by_industry.json")
