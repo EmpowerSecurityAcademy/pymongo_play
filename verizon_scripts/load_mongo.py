@@ -21,7 +21,7 @@ conn = db[config['database']['collection_name']]
 #read in all files in the directory
 
 
-for file_name in glob.glob("../data_json/*.json"):
+for file_name in glob.glob("../verizon_data_json/*.json"):
 
 #	load json objects 
 
