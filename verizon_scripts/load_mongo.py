@@ -2,7 +2,7 @@ import json
 import pymongo
 import glob
 import sys
-sys.path.append('../')
+sys.path.append('../helpers')
 from import_config import load_config
 from pymongo import MongoClient
 

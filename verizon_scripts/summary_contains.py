@@ -2,7 +2,6 @@ import json
 import pymongo
 import glob
 import sys
-sys.path.append('../')
 sys.path.append('../helpers')
 from import_config import load_config
 from save_to_csv import export__all_data
