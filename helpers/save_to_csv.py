@@ -1,7 +1,7 @@
 import unicodecsv
 
 
-def export__all_data(data, file_name):
+def csv_export(data, file_name):
 
 	file = unicodecsv.writer(open("../tmp/"+file_name, "wb"))
 	for row in data:
